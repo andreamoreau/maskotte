@@ -287,9 +287,9 @@ ul.social-icons li.pinterest:hover {
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
-    background: -moz-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background: -webkit-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background: -ms-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
+    background: -moz-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background: -webkit-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background: -ms-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
     border-color: #bf095d;
 }
 
@@ -341,9 +341,9 @@ ul.social-icons li.pinterest:hover {
     right: 0;
     bottom: 0;
     z-index: 9999;
-    background: -moz-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background: -webkit-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background: -ms-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
+    background: -moz-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background: -webkit-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background: -ms-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
 }
 
 .preloader .spinner {
@@ -432,15 +432,15 @@ ul.social-icons li.pinterest:hover {
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
-    background: -moz-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background: -webkit-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background: -ms-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
+    background: -moz-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background: -webkit-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background: -ms-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
 }
 
 .appy-menu.sticky {
-    background: -moz-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background: -webkit-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background: -ms-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
+    background: -moz-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background: -webkit-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background: -ms-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
     opacity: 0.9;
     box-shadow: 0 0 20px -10px rgba(0, 0, 0, 0.8);
     padding: 0;
@@ -514,9 +514,9 @@ ul.social-icons li.pinterest:hover {
 }
 
 .appy-menu ul li .dropdown-menu {
-    background: -moz-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background: -webkit-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background: -ms-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
+    background: -moz-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background: -webkit-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background: -ms-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
     padding: 0;
     border: 0;
     border-radius: 0;
@@ -682,10 +682,10 @@ ul.social-icons li.pinterest:hover {
     left: 0;
     bottom: 0;
     right: 0;
-    background-image: -moz-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background-image: -webkit-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background-image: -ms-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    opacity: 0.9;
+    background-image: -moz-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background-image: -webkit-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    background-image: -ms-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
+    opacity: 0.7;
 }
 
 #home_banner h3 {
@@ -1214,7 +1214,6 @@ ul.social-icons li.pinterest:hover {
 
 /*------------------------------
     15. START RECENT BLOG SECTION
-------------------------------*/
 
 #recent-blog .blog-box .blog-img {
     position: relative;
@@ -1391,14 +1390,12 @@ ul.social-icons li.pinterest:hover {
 }
 
 
-/*------------------------------
     15. END RECENT bLOG SECTION
 ------------------------------*/
 
 
 /*------------------------------
     16. START CALL TO ACTION SECTION
-------------------------------*/
 
 #call-to-action {
     position: relative;
@@ -1417,14 +1414,12 @@ ul.social-icons li.pinterest:hover {
 }
 
 
-/*------------------------------
     16. END CALL TO ACTION SECTION
 ------------------------------*/
 
 
 /*------------------------------
     17. START FAQ SECTION
-------------------------------*/
 
 #faq .panel {
     box-shadow: none;
@@ -1433,8 +1428,7 @@ ul.social-icons li.pinterest:hover {
 
 #faq .panel .panel-heading {
     padding: 0
-    /*background: #bf095d/*f9f9f9*/
-    ;
+    /*background: #bf095d   f9f9f9;
     background-image: -moz-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
     background-image: -webkit-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
     background-image: -ms-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
@@ -1466,7 +1460,7 @@ ul.social-icons li.pinterest:hover {
     content: "\f067";
     font: 18px fontAwesome;
     float: left;
-    /*margin-right: 25px;*/
+    margin-right: 25px;
     margin-top: 2px;
 }
 
@@ -1517,8 +1511,7 @@ ul.social-icons li.pinterest:hover {
 }
 
 
-/*------------------------------
-    17. END FAQ SECTION
+17. END FAQ SECTION
 ------------------------------*/
 
 
