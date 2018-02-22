@@ -102,14 +102,14 @@ a:hover {
 }
 
 .btn-default:hover {
-    border-color: #bf095d;
-    background: #bf095d;
+    border-color: #6dc2b8;
+    background: #6dc2b8;
     color: #fff;
 }
 
 .btn-default.colored {
-    color: #bf095d;
-    border-color: #bf095d;
+    color: #6dc2b8;
+    border-color: #6dc2b8;
 }
 
 .btn-default.colored:hover {
@@ -264,8 +264,8 @@ ul.social-icons li.pinterest:hover {
 .pagination>li>a,
 .pagination>li>span {
     padding: 8px 15px;
-    color: #bf095d;
-    border-color: #bf095d;
+    color: #6dc2b8;
+    border-color: #6dc2b8;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -290,7 +290,7 @@ ul.social-icons li.pinterest:hover {
     background: -moz-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
     background: -webkit-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
     background: -ms-linear-gradient( -29deg, #141E30 0%, #243B55 100%);
-    border-color: #bf095d;
+    border-color: #6dc2b8;
 }
 
 .pagination>li:first-child>a,
@@ -468,7 +468,7 @@ ul.social-icons li.pinterest:hover {
 
 .appy-menu ul li .dropdown-menu li.active a {
     background: #fff;
-    color: #bf095d !important;
+    color: #6dc2b8 !important;
 }
 
 .appy-menu ul li.dropdown>a {
@@ -526,7 +526,7 @@ ul.social-icons li.pinterest:hover {
 .appy-menu .navbar-nav>.active>a:focus,
 .appy-menu .navbar-nav>.active>a:hover {
     background: none;
-    color: #bf095d !important;
+    color: #6dc2b8 !important;
 }
 
 .appy-menu .navbar-brand {
@@ -536,7 +536,7 @@ ul.social-icons li.pinterest:hover {
 }
 
 .appy-menu ul li a:hover {
-    color: #bf095d !important;
+    color: #6dc2b8 !important;
 }
 
 .appy-menu .navbar-brand {
@@ -564,7 +564,7 @@ ul.social-icons li.pinterest:hover {
 }
 
 .appy-menu.navbar-default .navbar-toggle .icon-bar {
-    background-color: #bf095d;
+    background-color: #6dc2b8;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -710,7 +710,7 @@ ul.social-icons li.pinterest:hover {
 #home_banner .btn:hover {
     border-color: #fff;
     background: #fff;
-    color: #bf095d;
+    color: #6dc2b8;
 }
 
 @media (max-width: 991px) {
@@ -882,7 +882,7 @@ ul.social-icons li.pinterest:hover {
     height: 80px;
     overflow: hidden;
     border-radius: 50%;
-    border: 3px solid #bf095d;
+    border: 3px solid #6dc2b8;
 }
 
 #testimonial .testimonial-slider .item h4 {
@@ -906,7 +906,7 @@ ul.social-icons li.pinterest:hover {
 }
 
 #testimonial .testimonial-slider .owl-dots .owl-dot.active span {
-    background: #bf095d;
+    background: #6dc2b8;
 }
 
 
@@ -955,7 +955,7 @@ ul.social-icons li.pinterest:hover {
 
 #screenshots .screenshots-slider.owl-carousel .owl-nav .owl-prev:hover,
 #screenshots .screenshots-slider.owl-carousel .owl-nav .owl-next:hover {
-    background: #bf095d;
+    background: #6dc2b8;
 }
 
 #screenshots .screenshots-slider.owl-carousel .owl-nav .owl-prev:before {
@@ -1037,15 +1037,15 @@ ul.social-icons li.pinterest:hover {
 }
 
 #price .price-table.feature {
-    color: #bf095d;
-    border-color: #bf095d;
+    color: #6dc2b8;
+    border-color: #6dc2b8;
     padding: 20px 0;
     margin-top: 0;
 }
 
 #price .price-table.feature:hover .btn-default.colored {
     color: #fff;
-    background: #bf095d;
+    background: #6dc2b8;
 }
 
 #price .price-table h4 {
@@ -1166,7 +1166,7 @@ ul.social-icons li.pinterest:hover {
 }
 
 #team .team-slider .owl-dots .owl-dot.active span {
-    background: #bf095d;
+    background: #6dc2b8;
 }
 
 
@@ -1192,7 +1192,7 @@ ul.social-icons li.pinterest:hover {
 
 #download .btn-default:hover {
     background: #fff;
-    color: #bf095d;
+    color: #6dc2b8;
     border-color: #fff;
 }
 
@@ -1549,7 +1549,7 @@ ul.social-icons li.pinterest:hover {
 
 #contact .btn-default {
     border-radius: 0;
-    background: #bf095d;
+    background: #6dc2b8;
     border: none;
     margin: 20px 0;
     font-weight: 600;
@@ -1558,7 +1558,7 @@ ul.social-icons li.pinterest:hover {
 
 #contact .btn-default:hover {
     background: #fff;
-    color: #bf095d;
+    color: #6dc2b8;
 }
 
 #contact .contact-info li {
@@ -1606,9 +1606,9 @@ ul.social-icons li.pinterest:hover {
 #subscribe .subcribe-form .btn {
     border-bottom-left-radius: 0;
     border-top-left-radius: 0;
-    background: #bf095d;
+    background: #6dc2b8;
     color: #fff;
-    border-color: #bf095d;
+    border-color: #6dc2b8;
     position: absolute;
     top: 0;
     right: 0;
@@ -1618,7 +1618,7 @@ ul.social-icons li.pinterest:hover {
 #subscribe .subcribe-form input {
     height: 44px;
     border-radius: 25px;
-    border: 1px solid #bf095d;
+    border: 1px solid #6dc2b8;
 }
 
 #subscribe .subcribe-form input::-webkit-input-placeholder {
@@ -1687,7 +1687,7 @@ ul.social-icons li.pinterest:hover {
 }
 
 .blogs .blog-box .blog-details h3 a {
-    color: #bf095d;
+    color: #6dc2b8;
     font-size: 18px;
     text-transform: uppercase;
     overflow: hidden;
@@ -1746,7 +1746,7 @@ ul.social-icons li.pinterest:hover {
 ------------------------------*/
 
 .single-blog .blog-box h3 {
-    color: #bf095d;
+    color: #6dc2b8;
     font-size: 18px;
     text-transform: uppercase;
     overflow: hidden;
@@ -1762,7 +1762,7 @@ ul.social-icons li.pinterest:hover {
 
 blockquote {
     margin: 26px 40px;
-    border-left-color: #bf095d;
+    border-left-color: #6dc2b8;
     background: #f3f3f3;
 }
 
@@ -1906,7 +1906,7 @@ blockquote p {
 
 .comments-form .btn-default {
     border-radius: 0;
-    background: #bf095d;
+    background: #6dc2b8;
     border: none;
     margin: 20px 0;
     font-weight: 600;
@@ -1931,15 +1931,15 @@ blockquote p {
 .sidebar .search-form input {
     height: 44px;
     border-radius: 25px;
-    border: 1px solid #bf095d;
+    border: 1px solid #6dc2b8;
 }
 
 .sidebar .search-form .btn {
     border-bottom-left-radius: 0;
     border-top-left-radius: 0;
-    background: #bf095d;
+    background: #6dc2b8;
     color: #fff;
-    border-color: #bf095d;
+    border-color: #6dc2b8;
     position: absolute;
     top: 0;
     right: 0;
@@ -1989,7 +1989,7 @@ blockquote p {
     padding: 10px;
     background: #f3f3f3;
     display: block;
-    color: #bf095d;
+    color: #6dc2b8;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -1998,13 +1998,13 @@ blockquote p {
 
 .sidebar .categories-widget ul li a:hover {
     text-decoration: none;
-    background: #bf095d;
+    background: #6dc2b8;
     color: #fff;
 }
 
 .sidebar .categories-widget ul li a span {
     float: right;
-    background: #bf095d;
+    background: #6dc2b8;
     padding: 5px;
     border-radius: 50%;
     color: #fff;
@@ -2021,7 +2021,7 @@ blockquote p {
 
 .sidebar .categories-widget ul li a:hover span {
     background: #fff;
-    color: #bf095d;
+    color: #6dc2b8;
 }
 
 .sidebar .recent-posts-widget ul li {
@@ -2048,12 +2048,12 @@ blockquote p {
 }
 
 .sidebar .recent-posts-widget .recent-post-description h3 a {
-    color: #bf095d;
+    color: #6dc2b8;
 }
 
 .sidebar .archives-widget ul li a,
 .sidebar .meta-widget ul li a {
-    color: #bf095d;
+    color: #6dc2b8;
     padding: 5px 0;
     display: block;
     -webkit-transition: all 0.3s ease;
@@ -2068,7 +2068,7 @@ blockquote p {
 }
 
 .sidebar .tags-widget ul li a {
-    background: #bf095d;
+    background: #6dc2b8;
     color: #fff;
     font-size: 12px;
     line-height: 100%;
