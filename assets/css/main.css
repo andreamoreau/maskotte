@@ -107,23 +107,33 @@ a:hover {
     color: #fff;
 }
 
-.btn-default.colored {
-    color: #6dc2b8;
-    border-color: #6dc2b8;
+.btn-default.argent {
+    color: darkgray;
+    border-color: darkgray;
 }
 
-.btn-default.colored:hover {
+.btn-default.argent:hover {
     color: #fff;
 }
 
 .btn-default.blue {
-    color: #2a3b71;
-    border-color: #2a3b71;
+    color: #6dc2b8;
+    border-color: #6dc2b8;
 }
 
 .btn-default.blue:hover {
     color: #fff;
-    background: #2a3b71;
+    background: #6dc2b8;
+}
+
+.btn-default.or {
+    color: darkgoldenrod;
+    border-color: darkgoldenrod;
+}
+
+.btn-default.or:hover {
+    color: #fff;
+    background: darkgoldenrod;
 }
 
 .mt-200 {
@@ -1015,7 +1025,18 @@ ul.social-icons li.pinterest:hover {
     -moz-transition: all .5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     -o-transition: all .5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     transition: all .5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-}
+} 
+
+#price .price-table-blue {
+    color: #6dc2b8;
+    border: 1px solid #6dc2b8;
+    }
+
+#price .price-table-or {
+    border: 1px solid darkgoldenrod;
+        color: darkgoldenrod;
+
+    }
 
 @media (max-width: 992px) {
     #price .price-table {
@@ -1033,19 +1054,20 @@ ul.social-icons li.pinterest:hover {
 
 #price .price-table:hover .btn-default.blue {
     color: #fff;
-    background: #2a3b71;
+    background: #6dc2b8;
+
 }
 
 #price .price-table.feature {
-    color: #6dc2b8;
-    border-color: #6dc2b8;
+    color: darkgray;
+    border-color: darkgray;
     padding: 20px 0;
     margin-top: 0;
 }
 
-#price .price-table.feature:hover .btn-default.colored {
+#price .price-table.feature:hover .btn-default.argent {
     color: #fff;
-    background: #6dc2b8;
+    background: darkgray;
 }
 
 #price .price-table h4 {
@@ -2095,9 +2117,10 @@ blockquote p {
 ------------------------------*/
 
 footer {
-    background-image: -moz-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background-image: -webkit-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
-    background-image: -ms-linear-gradient( -29deg, rgb(193, 15, 65) 0%, rgb(35, 59, 136) 100%);
+    background: #485563;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 footer p {
