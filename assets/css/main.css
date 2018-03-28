@@ -813,14 +813,14 @@ ul.social-icons li.pinterest:hover {
     color: #fff;
     font-weight: 600;
     font-size: 18px;
-    margin-bottom: 25px;
+    margin-bottom: 12px;
 }
 
 #features .features-wrapper .single-feature .features-details p {
     font-size: 15px;
     color: #fff;
     font-weight: 300;
-    line-height: 25px;
+    line-height: 20px;
 }
 
 @media (max-width: 992px) {
