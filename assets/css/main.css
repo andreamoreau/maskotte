@@ -707,9 +707,9 @@ ul.social-icons li.pinterest:hover {
 #home_banner h3 {
     font-size: 40px;
     color: #fff;
-    font-weight: 300;
+    font-weight: 600;
     margin: 0;
-    line-height: 70px;
+    line-height: 10px;
 }
 
 #home_banner p {
